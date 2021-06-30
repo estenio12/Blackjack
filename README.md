@@ -20,7 +20,7 @@ GCC link: https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetti
   <h4> Rules for compiler with G++: </h4>
   
   <li>
-    <h3> Windows Compiler with G++ </h3>
+    <h3> Linux Compiler with G++ </h3>
     <ul>
       <li><h5> Step 1: </h5> Download and install SFML Library: sudo apt-get install libsfml-dev</li>
       <li><h5> Step 2: </h5> Linux Compiler: </h3> g++ *.cpp ./src/*.cpp -std==c++17 -o main -lsfml-graphics -lsfml-window -lsfml-audio -lsfml-system</li>
