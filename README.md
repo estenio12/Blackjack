@@ -41,5 +41,4 @@ GCC link: https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetti
 <h3> Other ways to compiler </h3>
 <ul>
   <li>Visual Studio 2019 link: https://visualstudio.microsoft.com/pt-br/downloads/</li>
-  <li>Visual Studio Code link: https://code.visualstudio.com/download</li>
 </ul>
